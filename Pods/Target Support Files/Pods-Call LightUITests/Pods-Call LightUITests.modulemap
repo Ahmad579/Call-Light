@@ -1,0 +1,6 @@
+framework module Pods_Call_LightUITests {
+  umbrella header "Pods-Call LightUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
